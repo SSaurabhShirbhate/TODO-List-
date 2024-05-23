@@ -18,19 +18,6 @@ This is a simple and interactive Todo List application built using React and Tai
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **React Icons**: A collection of popular icons for React.
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm (Node Package Manager)
-
-### Installation
-
 1. Clone the repository:
 
    ```sh
